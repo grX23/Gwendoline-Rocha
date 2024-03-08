@@ -21,11 +21,16 @@ body {
 }
 
 .resume-main {
-	background-color: #DFC9F2;
+	background-color: #d1cfe2;
+}
+Eperience {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #472836;
 }
 
+
 .resume-aside {
-	background-color: #EBD8FA;
+	background-color: #9CADCE;
 }
 
 /* Styles for lists in the document */
@@ -51,4 +56,22 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.header2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: oblique;
+	color: #11028E;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+.header4 {
+	color: #11028E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-size: 14pt;
+}
+.header5 {
+	color: #11028E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 14pt;
 }
